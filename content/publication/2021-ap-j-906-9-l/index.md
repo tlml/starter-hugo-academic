@@ -27,6 +27,10 @@ lastmod: 2021-12-07T16:38:57Z
 featured: false
 draft: false
 
+# Display this page in the Featured widget?
+featured: true
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
