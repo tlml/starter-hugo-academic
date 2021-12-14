@@ -204,7 +204,7 @@ Articles in the List of Publications.
         30, 37, 44, 47; and 2, 3 on the Conf. Proc (ref) list]
     -   Full-orbit simulations to model cross-field transport of SEPs
         -   Study showing that spatial diffusion approach cannot be used to
-            describe SEP cross-field transport early in the event [43, 53,
+            describe SEP cross-field transport early in the event [papers]({{< relref "/categories/SEP-transport-meandering" >}}) [43, 53,
             55, 57]
         -   Study of the effect of structures, nonlinear evolution and
             scale-dependent anisotropy of turbulence on energetic particle

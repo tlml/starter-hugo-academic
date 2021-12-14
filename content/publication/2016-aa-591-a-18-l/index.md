@@ -17,7 +17,7 @@ tags:
 - 'Sun: heliosphere'
 - magnetic fields
 - diffusion
-categories: []
+categories: ["SEP Transport meandering"]
 date: '2016-06-01'
 lastmod: 2021-12-07T16:39:07Z
 featured: false
