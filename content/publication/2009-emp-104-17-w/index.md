@@ -6,20 +6,18 @@ title: 'The Interstellar Heliopause Probe: Heliospheric Boundary Explorer Missio
 subtitle: ''
 summary: ''
 authors:
-- R.~F. Wimmer-Schweingruber
-- R. McNutt
-- The IHP/HEX Team
+- Robert F. Wimmer-Schweingruber
+- Ralph McNutt
 tags:
 - Heliosphere
 - Interstellar medium
 - Interstellar probe
-- Cosmic vision 2015ampndash
-- '2025'
+- Cosmic vision 2015-2025
 - Termination shock
 - Heliopause
 categories: []
 date: '2009-04-01'
-lastmod: 2021-12-07T16:39:27Z
+lastmod: 2021-12-14T17:53:07Z
 featured: false
 draft: false
 
@@ -37,10 +35,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:39:26.283877Z'
+publishDate: '2021-12-14T17:53:06.777184Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The Sun, driving a supersonic solar wind, cuts out of the local interstellar
+  medium a giant plasma bubble, the heliosphere. ESA, jointly with NASA, has had an
+  important role in the development of our current understanding of the Sunstextquoteright
+  immediate neighborhood. Ulysses is the only spacecraft exploring the third, out-of-ecliptic
+  dimension, while SOHO has allowed us to better understand the influence of the Sun
+  and to image the glow of interstellar matter in the heliosphere. Voyager 1 has recently
+  encountered the innermost boundary of this plasma bubble, the termination shock,
+  and is returning exciting yet puzzling data of this remote region. The next logical
+  step is to leave the heliosphere and to thereby map out in unprecedented detail
+  the structure of the outer heliosphere and its boundaries, the termination shock,
+  the heliosheath, the heliopause, and, after leaving the heliosphere, to discover
+  the true nature of the hydrogen wall, the bow shock, and the local interstellar
+  medium beyond. This will greatly advance our understanding of the heliosphere that
+  is the best-known example for astrospheres as found around other stars. Thus, IHP/HEX
+  will allow us to discover, explore, and understand fundamental astrophysical processes
+  in the largest accessible plasma laboratory, the heliosphere.
 publication: '*Earth Moon and Planets*'
 doi: 10.1007/s11038-008-9249-8
 ---

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-12-07T16:39:38Z
+lastmod: 2021-12-14T17:53:25Z
 featured: false
 draft: false
 
@@ -28,10 +28,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:39:37.112982Z'
+publishDate: '2021-12-14T17:53:24.353242Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The solar wind wave heating models require substantial amount of wave power
+  in order to efficiently heat and accelerate solar wind. The level of fluctuations
+  is however limited by energetic particle observations. The simplest cyclotron sweep
+  models result in convection-dominated transport, contradicting observations. However,
+  models incorporating wave-wave -interactions, which cause wave energy to cascade
+  in wavenumber, allow more reasonable energetic particle transport in the interplanetary
+  space. The mean free path of the energetic particles remains still relatively short
+  in the corona, providing favorable conditions for coronal mass ejection (CME) related
+  shock acceleration. We study the consequences of this scenario on the energetic
+  particle production related to CMEs. The role of self-generated waves is also discussed.
 publication: '*Advances in Space Research*'
-doi: 10.1016/S0273-1177(03)90437-6
+doi: 10.1016/S0273-1177(03)00932-3
 ---

@@ -16,7 +16,7 @@ tags:
 - turbulence
 categories: []
 date: '2003-08-01'
-lastmod: 2021-12-07T16:39:35Z
+lastmod: 2021-12-14T17:53:23Z
 featured: false
 draft: false
 
@@ -34,10 +34,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:39:34.221803Z'
+publishDate: '2021-12-14T17:53:21.938662Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*åp*'
+abstract: Alfvén wave transport in the solar wind, including non-linear spectral energy
+  transfer, is studied. We present numerical solutions of wave transport using a diffusive
+  flux function previously introduced for spectral energy transfer, and compare it
+  with the analytical solution obtained for a convective flux function. The two models
+  of cascading produce very similar behavior of a power spectrum initially of 1/f-form
+  at the solar surface, provided that the cascading constants are tuned to produce
+  the same spectral flux in the inertial range. We present an analytical expression
+  for the power spectrum of the diffusively-cascading Alfvén waves in the solar wind
+  derived from a solution of the wave transport equation and show that it compares
+  well with the exact solutions. Our expression enables (semi) analytical evaluation
+  of the cyclotron heating rate, the wave pressure gradient, and the energetic-particle
+  mean free path related to the Alfvén waves in the corona and solar wind.
+publication: '*A&A*'
 doi: 10.1051/0004-6361:20030914
 ---

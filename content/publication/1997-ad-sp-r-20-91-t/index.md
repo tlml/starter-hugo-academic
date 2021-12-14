@@ -16,18 +16,19 @@ authors:
 - T. Laitinen
 - G. Schultz
 tags:
-- SOHO MISSION
-- ENERGETIC PARTICLES
-- PARTICLE FLUX DENSITY
-- HIGH ENERGY ELECTRONS
-- RELATIVISTIC PARTICLES
-- SOLAR FLUX
-- SOLAR ROTATION
-- SOLAR PROTONS
-- SOLAR ELECTRONS
+- Soho Mission
+- Energetic Particles
+- Particle Flux Density
+- High Energy Electrons
+- Relativistic Particles
+- Solar Flux
+- Solar Rotation
+- Solar Protons
+- Solar Electrons
+- Space Radiation
 categories: []
 date: '1997-01-01'
-lastmod: 2021-12-07T16:40:03Z
+lastmod: 2021-12-14T17:53:54Z
 featured: false
 draft: false
 
@@ -45,10 +46,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:40:01.156556Z'
+publishDate: '2021-12-14T17:53:53.525976Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The observations of the ERNE instrument on-board the SOHO spacecraft are
+  analysed. The main period under study is from the beginning of May till mid-October
+  1996. Only very small energetic particle events were observed. A comparison of the
+  ERNE measurements with energetic particle observations during the two previous solar
+  minima indicates that the flux levels of protons during the first half of 1996 are
+  exceptionally low. The daily counting rates of quiet-time protons and 4̂He in the
+  energy range 13-100 MeV/nucleon show statistically significant variations with time.
+  Following two energetic particle events in July and August, anticorrelations were
+  found between enhancements of low energy protons in the range 1.5-8 MeV, possibly
+  accelerated in a corotating interaction region, and the modulation of high energy
+  protons and helium above 13 MeV/nucleon. The period of the observed anticorrelations
+  coincide with the solar rotation period.
 publication: '*Advances in Space Research*'
 doi: 10.1016/S0273-1177(97)00487-0
 ---

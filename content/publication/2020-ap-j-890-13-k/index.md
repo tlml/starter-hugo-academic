@@ -29,7 +29,7 @@ tags:
 - '1497'
 categories: []
 date: '2020-02-01'
-lastmod: 2021-12-07T16:39:00Z
+lastmod: 2021-12-14T17:52:36Z
 featured: false
 draft: false
 
@@ -47,10 +47,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:38:59.909995Z'
+publishDate: '2021-12-14T17:52:35.809589Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*apj*'
+abstract: We analyze the relativistic proton emission from the Sun during the eruptive
+  event on 2017 September 10, which caused a ground-level enhancement (GLE 72) registered
+  by the worldwide network of neutron monitors. Using the neutron monitor data and
+  interplanetary transport modeling both along and across interplanetary magnetic
+  field (IMF) lines, we deduce parameters of the proton injection into the interplanetary
+  medium. The inferred injection profile of the interplanetary protons is compared
+  with the profile of the >100 MeV ensuremathγ-ray emission observed by the Fermi
+  Large Area Telescope, attributed to pion production from the interaction of >300
+  MeV protons at the Sun. GLE 72 started with a prompt component that arrived along
+  the IMF lines. This was followed by a more prolonged enhancement caused by protons
+  arriving at the Earth across the IMF lines from the southwest. The interplanetary
+  proton event is modeled using two sources—one source at the root of the Earth- connected
+  IMF line and another source situated near the solar western limb. The maximum phase
+  of the second injection of interplanetary protons coincides with the maximum phase
+  of the prolonged >100 MeV ensuremathγ-ray emission that originated from a small
+  area at the solar western limb, below the current sheet trailing the associated
+  coronal mass ejection (CME). A possible common source of interacting protons and
+  interplanetary protons is discussed in terms of proton acceleration at the CME bow
+  shock versus coronal (re-)acceleration in the wake of the CME.
+publication: '*ApJ*'
 doi: 10.3847/1538-4357/ab684e
 ---

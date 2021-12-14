@@ -6,18 +6,19 @@ title: 'SPARX: A modeling system for Solar Energetic Particle Radiation Space We
 subtitle: ''
 summary: ''
 authors:
-- M.~S. Marsh
+- M. S. Marsh
 - S. Dalla
 - M. Dierckxsens
 - T. Laitinen
-- N.~B. Crosby
+- N. B. Crosby
 tags:
 - solar
 - particles
 - forecasting
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2015-06-01'
-lastmod: 2021-12-07T16:39:09Z
+lastmod: 2021-12-14T17:52:47Z
 featured: false
 draft: false
 
@@ -35,10 +36,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:39:08.342550Z'
+publishDate: '2021-12-14T17:52:45.983494Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The capability to predict the parameters of an SEP event such as its onset,
+  peak flux, and duration is critical to assessing any potential space weather impact.
+  We present a new flexible modeling system simulating the propagation of Solar Energetic
+  Particles (SEPs) from locations near the Sun to any given location in the heliosphere
+  to forecast the SEP flux profiles. Solar Particle Radiation SWx (SPARX) uses an
+  innovative methodology that allows implementation within an operational framework
+  to overcome the time constraints of test particle modeling of SEP profiles, allowing
+  the production of near-real- time SEP nowcasts and forecasts, when paired with appropriate
+  near-real-time triggers. SPARX has the capability to produce SEP forecasts within
+  minutes of being triggered by observations of a solar eruptive event. The model
+  is based on the test particle approach and is spatially 3-D, thus allowing for the
+  possibility of transport in the direction perpendicular to the magnetic field. The
+  model naturally includes the effects of perpendicular propagation due to drifts
+  and drift-induced deceleration. The modeling framework and the way in which parameters
+  of relevance for Space Weather forecasting are obtained are described. The first
+  results from the modeling system are presented. These results demonstrate that corotation
+  and drift of SEP streams play an important role in shaping SEP flux profiles.
 publication: '*Space Weather*'
 doi: 10.1002/2014SW001120
 links:

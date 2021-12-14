@@ -7,7 +7,7 @@ summary: ''
 authors:
 - J. Torsti
 - E. Valtonen
-- L.~G. Kocharov
+- L. G. Kocharov
 - R. Vainio
 - E. Riihonen
 - A. Anttila
@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '1997-01-01'
-lastmod: 2021-12-07T16:40:04Z
+lastmod: 2021-12-14T17:53:53Z
 featured: false
 draft: false
 
@@ -35,9 +35,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:40:03.748884Z'
+publishDate: '2021-12-14T17:53:51.841012Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*solphys*'
+publication: '*Sol. Phys.*'
+doi: 10.1023/A:1004963118224
 ---

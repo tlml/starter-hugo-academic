@@ -10,12 +10,15 @@ authors:
 - R. Vainio
 - H. Fichtner
 tags:
-- Particle emission
-- solar wind
-- Solar wind plasma; sources of solar wind
+- 96.60.Vg
+- 96.40.Fg
+- 96.50.Ci
+- Particle emission solar wind
+- Solar wind plasma
+- sources of solar wind
 categories: []
 date: '2003-09-01'
-lastmod: 2021-12-07T16:39:37Z
+lastmod: 2021-12-14T17:53:21Z
 featured: false
 draft: false
 
@@ -33,10 +36,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-07T16:39:36.018744Z'
+publishDate: '2021-12-14T17:53:20.153539Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Wave damping and cascading processes have been found to be important for
+  the heating and acceleration of the solar wind. However, it remains a difficult
+  task to extract details of these processes from observations of the thermal plasma
+  only. The wave power required for efficient heating and acceleration of the solar
+  wind also affects the acceleration and transport of solar energetic particles. Thus,
+  their observation could provide valuable clues for the actual evolution of the wave
+  power close to the coronal base and, in turn, give constraints for solar wind modeling.
+  Pursuing this idea, we have developed a steady- state two-fluid model for the wave
+  heating and acceleration of the solar wind. The dissipation frequency determining
+  the heating is obtained from a cyclotron damping rate that depends on the plasma
+  beta and, thus, differs from the usual assumption, a fixed fraction of the ion cyclotron
+  frequency. We present first results obtained with the two-fluid code and, in particular,
+  discuss the implications of the corresponding mean free path of energetic particles.
 publication: '*Solar Wind Ten*'
 doi: 10.1063/1.1618599
 ---
