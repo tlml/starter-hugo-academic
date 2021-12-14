@@ -76,5 +76,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a post-doctoral research associate in the University of Central Lancashire. My work concentrates on transport of charged energetic particles in the heliosphere, particularly the cross-field transport of particles perpendicular to the mean magnetic field.
+I am a heliophysics researcher in the University of Central Lancashire. My work concentrates on transport of charged energetic particles in the heliosphere, particularly the cross-field transport of particles perpendicular to the mean magnetic field.
 
