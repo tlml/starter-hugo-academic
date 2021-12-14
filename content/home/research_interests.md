@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -54,5 +54,5 @@ design:
   flip_alt_rows: false
 ---
 
-My primary research interests lie in the Solar Energetic Particles (SEPs). SEPs are fast electrons and charged ions that we observe during solar eruptions. Their origin is, after several decades of research, still being debated. The SEPs are also a part of Space Weather research, which concentrates on the phenomena in space that can have an effect on us humans. The fast charged particles can penetrate human tissue and electronic instruments, and thus constitute a serious risk to the space endeavours of the human kind.
+My primary research interests lie in the Solar Energetic Particles (SEPs). SEPs are fast electrons and charged ions that we observe during solar eruptions. Their origin is, after several decades of research, still being debated .
 
