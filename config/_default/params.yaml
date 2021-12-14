@@ -76,9 +76,9 @@ address_format: en-gb
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
