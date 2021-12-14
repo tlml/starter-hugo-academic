@@ -28,7 +28,7 @@ featured: false
 draft: false
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 
 # Featured image
