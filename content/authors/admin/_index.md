@@ -31,8 +31,12 @@ education:
   - course: PhD in Physics
     institution: University of Turku, Finland
     year: 2003
+  - course: UK Higher Education Academy Fellowship (ref. PR118156) 
+    institution: University of Central Lancashire, UK
+    year: 2016
   - course: MSc in Physics
     institution: University of Turku, Finland
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
