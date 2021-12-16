@@ -31,9 +31,9 @@ projects: []
 
 
 
-My primary contribution to the SEP research currently
-consists of trying to unravel the propagation of the SEPs in the
-interplanetary space. As charged particles, the SEPs are affected by
+I am currently working on improving our understanding on howt he SEPs
+propagate in the interplanetary space, to arrive from the Sun to Earth
+and beyond. As charged particles, the SEPs are affected by
 electromagnetic forces, and thus, in the turbulent plasmas of the
 interplanetary space, they do not propagate along a direct path from
 the Sun. The follow the large-scale spiral structure, the "Parker

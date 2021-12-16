@@ -30,15 +30,17 @@ projects: []
 ---
 
 The Solar Energetic Particles are accelerate during solar eruptions,
-with the acceleration believed to be connected to the flare processes,
-reorganisation of the turbulent magnetic field flux tubes, and the
-vast magnetic clouds that are ejected from the Sun at supersonic
-speeds into the corona and interplanetary space.
+with the acceleration believed to be connected to the flare processes
+and the vast magnetic clouds that are ejected from the Sun at
+supersonic speeds into the corona and interplanetary space.
 
-I have on SEP acceleration modelling in the recent past with with Rami
-Vainio (University of Turku, Finland). Our studies concentrated on SEP acceleration by the shock waves driven by the mass clouds, and the text below describes that process. 
+In the recent past, I worked on SEP acceleration with Rami Vainio
+(University of Turku, Finland). Our studies concentrated on SEP
+acceleration by the shock waves driven by the mass clouds, and the
+text below describes that process and our work
 
-I plan to amend this text to include information on particle acceleration in flares at a later date.
+In the future, I plan to amend this text to include also something
+about particle acceleration in flares.
 
 ## SEP acceleration in shock waves driven by coronal mass ejections
 
@@ -56,7 +58,7 @@ upstream and downstream of the shock, gaining energy at each crossing
 of the shock front.
 
 As the acceleration mechanism requires scattering, it requires
-turbulent magnetic field. We are studying the effect of the
+turbulent magnetic field. With Rami Vainio, we studied the effect of the
 accelerated particle streams generating this turbulence themselves. In
 this manner, the acceleration process can be bootstrapped: the
 accelerated particles amplify the turbulence, making subsequent
