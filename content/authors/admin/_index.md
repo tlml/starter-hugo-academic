@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Docent (Habilitation/Adjunct Professor) in Space Physics Physics
-    institution: University of Turku, Finland
-    year: 2008
   - course: PhD in Physics
     institution: University of Turku, Finland
     year: 2003
+  - course: Docent (Habilitation/Adjunct Professor) in Space Physics Physics
+    institution: University of Turku, Finland
+    year: 2008
   - course: UK Higher Education Academy Fellowship (ref. PR118156) 
     institution: University of Central Lancashire, UK
     year: 2016
@@ -61,9 +61,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tlml
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/timo-laitinen-612a074/
 
 
 # Link to a PDF of your resume/CV.
