@@ -1,0 +1,9 @@
+<div class="card experience course">
+  <div>
+    {{ .Inner |markdownify | emojify }}
+    <a class="card-link" href="{{ .Get "link"}}" target="_blank" rel="noopener">
+      {{.Get "linktext" }} </a>
+
+  </div>
+</div>
+
