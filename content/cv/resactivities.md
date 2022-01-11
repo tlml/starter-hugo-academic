@@ -56,7 +56,7 @@ item:
             scale-dependent anisotropy of turbulence on energetic particle
             propagation 
         *   Study of the effects of large-scale magnetic structures in the
-            heliospheric magnetic fields [My CV]({{< ref "cv/index.md" >}}
+            heliospheric magnetic fields
 
 
 ---
