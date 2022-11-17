@@ -32,7 +32,7 @@
         {{end}}
 
         {{with .description}}
-          <div class="card-text">{{. | markdownify | emojify}}</div>
+          <div class="card-text">{{. | $page.RenderString }}</div>
         {{end}}
 
         {{ with .certificate_url }}
