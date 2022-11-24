@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments_nometa
 
-active: true
+active: false
 draft: true
 
 # This file represents a page section.
