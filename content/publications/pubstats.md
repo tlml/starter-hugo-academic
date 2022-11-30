@@ -19,11 +19,15 @@ subtitle:
 design:
   # Use a 1-column layout
   columns: "1"
+  
+# {{< list_categories >}}
+
 ---
 
-* 63 publications in refereed journals
+* 65 [publications in refereed journals]({{< relref "/publication" >}})
 * 8 publications in refereed proceedings
-* 19 [invited conference and seminar talks]({{< relref "/invited" >}})
+* 21 [invited conference and seminar talks]({{< relref "/invited" >}})
 * 14 publications in non-refereed proceedings
-* 52 contributed oral and poster presentations (only the ones as presenter)
-* **H-index**: 23 (ISI)
+* 67 contributed [oral]({{< relref "/categories/talk" >}}) and [poster]({{< relref "/categories/poster" >}}) presentations (only the ones as presenter)
+* **H-index**: 24 (Harvard ADS)
+
