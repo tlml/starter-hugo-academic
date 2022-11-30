@@ -6,8 +6,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
-subtitle: ''
+title: Refereed Publications
+subtitle: '(including refereed proceedings)'
 view: 4
 
 ---
