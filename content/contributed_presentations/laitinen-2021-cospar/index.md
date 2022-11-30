@@ -8,9 +8,10 @@ authors:
 - T. Laitinen
 - S. Dalla
 tags: []
-categories: []
+categories:
+- Poster
 date: '2021-01-01'
-lastmod: 2022-11-30T10:36:44Z
+lastmod: 2022-11-30T11:00:45Z
 featured: false
 draft: false
 
@@ -28,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-30T10:36:42.448068Z'
+publishDate: '2022-11-30T11:00:43.055722Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*Cospar, Sydney, Australia/Online, 28 January-4 February*'
 ---

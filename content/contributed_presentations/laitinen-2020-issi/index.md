@@ -7,9 +7,10 @@ summary: ''
 authors:
 - T. Laitinen
 tags: []
-categories: []
+categories:
+- Talk
 date: '2020-01-01'
-lastmod: 2022-11-30T10:36:45Z
+lastmod: 2022-11-30T11:00:46Z
 featured: false
 draft: false
 
@@ -27,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-30T10:36:44.085000Z'
+publishDate: '2022-11-30T11:00:45.424160Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*ISSI meeting, Bern, Switzerland/online 10 December*'
 ---

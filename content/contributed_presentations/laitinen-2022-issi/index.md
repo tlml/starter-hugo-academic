@@ -11,9 +11,10 @@ authors:
 - C Waterfall
 - A. Hutchinson
 tags: []
-categories: []
+categories:
+- Talk
 date: '2022-01-01'
-lastmod: 2022-11-30T10:36:35Z
+lastmod: 2022-11-30T11:00:37Z
 featured: false
 draft: false
 
@@ -31,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-30T10:36:34.488688Z'
+publishDate: '2022-11-30T11:00:35.517157Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*ISSI meeting, Bern, Switzerland, 25-29 July*'
 ---

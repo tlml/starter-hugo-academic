@@ -8,9 +8,10 @@ authors:
 - T. Laitinen
 - S. Dalla
 tags: []
-categories: []
+categories:
+- Talk
 date: '2021-01-01'
-lastmod: 2022-11-30T10:36:42Z
+lastmod: 2022-11-30T11:00:43Z
 featured: false
 draft: false
 
@@ -28,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-30T10:36:40.586328Z'
+publishDate: '2022-11-30T11:00:40.810490Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*International Cosmic Ray Conference, Berlin, Germany/Online,  12-23
+  July*'
 ---

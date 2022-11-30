@@ -7,9 +7,10 @@ summary: ''
 authors:
 - T. Laitinen
 tags: []
-categories: []
+categories:
+- Talk
 date: '2021-01-01'
-lastmod: 2022-11-30T10:36:38Z
+lastmod: 2022-11-30T11:00:39Z
 featured: false
 draft: false
 
@@ -27,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-30T10:36:37.699287Z'
+publishDate: '2022-11-30T11:00:38.235587Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*Alliance Workshop, Online, 28-29 June*'
 ---
